@@ -1,0 +1,8 @@
+venv
+dummy
+*.jpg
+*.jpeg
+*.png
+.DS_Store
+*.pyc
+Pictures
